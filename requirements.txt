@@ -1,0 +1,5 @@
+streamlit
+databricks-sdk
+databricks-vectorsearch
+rapidfuzz
+requests
